@@ -47,5 +47,5 @@ Clean Architecture separates the application into distinct layers to enforce a s
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/TaskManager.git
+   git clone https://github.com/gondaimgano/TaskManagerCleanArchitectureApiDotNet.git
    cd TaskManager
