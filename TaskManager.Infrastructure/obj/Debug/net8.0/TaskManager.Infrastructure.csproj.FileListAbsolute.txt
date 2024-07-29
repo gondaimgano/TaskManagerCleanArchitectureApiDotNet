@@ -1,0 +1,17 @@
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Infrastructure.deps.json
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Infrastructure.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Infrastructure.pdb
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Application.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Core.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Application.pdb
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/bin/Debug/net8.0/TaskManager.Core.pdb
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.csproj.AssemblyReference.cache
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.AssemblyInfoInputs.cache
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.AssemblyInfo.cs
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskMana.DD0CDC6B.Up2Date
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/refint/TaskManager.Infrastructure.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/TaskManager.Infrastructure.pdb
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Infrastructure/obj/Debug/net8.0/ref/TaskManager.Infrastructure.dll

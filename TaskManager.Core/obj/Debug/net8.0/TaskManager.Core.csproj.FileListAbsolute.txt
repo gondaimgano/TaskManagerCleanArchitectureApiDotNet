@@ -1,0 +1,11 @@
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/bin/Debug/net8.0/TaskManager.Core.deps.json
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/bin/Debug/net8.0/TaskManager.Core.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/bin/Debug/net8.0/TaskManager.Core.pdb
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.AssemblyInfoInputs.cache
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.AssemblyInfo.cs
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.csproj.CoreCompileInputs.cache
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/refint/TaskManager.Core.dll
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.pdb
+/Users/gondaimgano/Documents/Tut/Portfolio/TaskManager.Core/obj/Debug/net8.0/ref/TaskManager.Core.dll
